@@ -1,2 +1,2 @@
-# 🎧 Spotify Playing
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ynmfshkraujvifvnbwrvr9pn3&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=ynmfshkraujvifvnbwrvr9pn3&redirect=true)
+
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
